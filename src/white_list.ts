@@ -5,6 +5,7 @@ export default [
 	"http://127.0.0.1:5173", // localhost
 	"https://glink25.github.io",
 	"https://oncent.github.io",
+	"https://cent2-egn.pages.dev/",
 	"https://cent.linkai.work",
 	"https://cent.link-ai.workers.dev",
 ];
