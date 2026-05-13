@@ -6,6 +6,7 @@ export default [
 	"https://glink25.github.io",
 	"https://oncent.github.io",
 	"https://cent2-egn.pages.dev/",
+	"https://cent2-egn.pages.dev",
 	"https://cent.linkai.work",
 	"https://cent.link-ai.workers.dev",
 ];
